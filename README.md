@@ -10,3 +10,4 @@ This simple program checks if the user-enetered logic fromula is valid.
 # How it works:
 the program works on the basis of reduction, where correct expressions are simplified until it is no longer possible.
 
+blabla
